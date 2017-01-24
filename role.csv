@@ -1,0 +1,5 @@
+"role_name";"gae_role";"new_robot";"edit_robot";"view_robot";"edit_role";"edit_user"
+"admin";"OWNER";"yes";"yes";"yes";"yes";"yes"
+"collaborator";"OWNER";"yes";"yes";"yes";"no";"no"
+"guest";"READER";"no";"no";"yes";"no";"no"
+"user";"OWNER";"yes";"yes";"yes";"no";"no"
